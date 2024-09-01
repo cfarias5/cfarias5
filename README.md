@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cfarias5 Cesar Arias
-- 👀 I’m interested in Sftware Development 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Javascript, but i'm know something about php, framework laravel etc.
 - 💞️ I’m looking to collaborate on projects what you need
 - 📫 How to reach me in this page github if you need.
